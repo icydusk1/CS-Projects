@@ -1,0 +1,9 @@
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\ControlDraggingTest\ControlDraggingTest\bin\Debug\ControlDraggingTest.exe.config
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\ControlDraggingTest\ControlDraggingTest\bin\Debug\ControlDraggingTest.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\ControlDraggingTest\ControlDraggingTest\bin\Debug\ControlDraggingTest.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\ControlDraggingTest\ControlDraggingTest\obj\Debug\ControlDraggingTest.csprojResolveAssemblyReference.cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\ControlDraggingTest\ControlDraggingTest\obj\Debug\ControlDraggingTest.Form1.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\ControlDraggingTest\ControlDraggingTest\obj\Debug\ControlDraggingTest.Properties.Resources.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\ControlDraggingTest\ControlDraggingTest\obj\Debug\ControlDraggingTest.csproj.GenerateResource.Cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\ControlDraggingTest\ControlDraggingTest\obj\Debug\ControlDraggingTest.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\ControlDraggingTest\ControlDraggingTest\obj\Debug\ControlDraggingTest.pdb
